@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall{
+    background-color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tag-1{
+background: -o-linear-gradient();
+z-index: 7;
+display: none;
+}
+#wall .tag-1{
+    display: none;
+}
+#tag-2{
+    background: fixed;
+    z-index: 7;
+    display: none;
+}
